@@ -1,0 +1,79 @@
+
+
+.para{
+    margin-left: 30px;
+    margin-right: 650px;
+    color: #fff;
+}
+
+.para1{
+    margin-left: 30px;
+    margin-right: 650px;
+    margin-bottom: 120px;
+    color: #fff;
+}
+.hero {
+        background: linear-gradient(to right, #f00, #0f0, #00f);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+        margin-top: ;
+        margin-left: 30px;
+        display: grid;
+}
+
+body {
+    margin: 10px;
+    background-image: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=820&q=80);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+  
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+  
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    padding-bottom: 15px;
+}
+  
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+    align-items: end;
+    float: right;
+}
+
+nav li:hover{
+    position: sticky;
+}
+  
+nav a {
+    color: #fff;
+    text-decoration: none;
+    text-align: right;
+} 
+  
+.about{
+    background: linear-gradient(to right, #f00, #0f0, #00f);
+     background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.resume{
+    color: #fff;
+    margin-left: 280px;
+    margin-top: 200px;
+}
+  
